@@ -1,5 +1,6 @@
 /**
  * Created by simonbeelocal on 02/04/2017.
+ * Something new
  */
 
 function Branch(generation, dirn, goRight){
